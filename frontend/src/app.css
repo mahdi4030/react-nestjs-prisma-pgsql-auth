@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700;900&display=swap");
+* {
+  font-family: "Nunito", sans-serif !important;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+.chakra-accordion__item .chakra-icon {
+  color: #277afb;
+}
+
+.bgLight {
+  background-color: white !important;
+}
+
+.bgDark {
+  background-color: #1a202c !important;
+}
